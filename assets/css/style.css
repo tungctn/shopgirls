@@ -1,0 +1,47 @@
+
+
+/* #girl-cheap,
+#girl-medium,
+#girl-expensive {
+    padding: 80px 0;
+} */
+
+div[class="text-light d-flex"] {
+    height: 100%; 
+    align-items: center;
+}
+
+img[src="/assets/img/avatar.png"] {
+    height: 30px;
+}
+
+img[src="/assets/img/logo1.jpg"] {
+    width: 50px; 
+    height: auto;
+}
+
+a[class="navbar-brand"]:hover {
+    border-top: 2px solid red ;
+}
+
+#content {
+    margin-top: 40px;
+}
+
+/* a[class="nav-link"]:hover {
+    border-top: 2px solid red ;
+    background-color: wheat;
+    border-radius: 3px;
+    color: white !important;
+} */
+
+a[class="nav-link"]:hover {
+    border-top: 2px solid red ;
+    background-color: wheat;
+    border-radius: 3px;
+    color: white !important;
+}
+
+img[src="/assets/img/slidestory1.gif"] {
+    margin: 0 auto;
+}
